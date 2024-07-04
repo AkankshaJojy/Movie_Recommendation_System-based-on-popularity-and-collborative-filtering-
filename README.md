@@ -15,12 +15,3 @@ Collaborative Filtering:
 Recommends movies based on the preferences of similar users.
 Uses user-item interaction data to find patterns and similarities between users.
 Provides more personalized recommendations as it considers the user's unique preferences and viewing history.
-
-
-
-
-Technology Stack
-Python: The core programming language used for developing the system.
-Pandas: For data manipulation and analysis.
-NumPy: For numerical computations.
-scikit-learn: For implementing collaborative filtering algorithms.
