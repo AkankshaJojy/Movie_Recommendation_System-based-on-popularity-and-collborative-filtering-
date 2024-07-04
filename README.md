@@ -4,15 +4,20 @@ This project is a movie recommendation system that suggests movies to users base
 
 Features
 Popularity-Based Filtering:
-
 Recommends movies based on their overall popularity.
 Popularity is determined by metrics such as ratings, number of ratings, and views.
 Great for new users with no prior interaction history.
-Collaborative Filtering:
 
+
+
+
+Collaborative Filtering:
 Recommends movies based on the preferences of similar users.
 Uses user-item interaction data to find patterns and similarities between users.
 Provides more personalized recommendations as it considers the user's unique preferences and viewing history.
+
+
+
 
 Technology Stack
 Python: The core programming language used for developing the system.
